@@ -1,4 +1,4 @@
-jsTimer
+Timer.js
 =======
 The Javascript Timer
 
