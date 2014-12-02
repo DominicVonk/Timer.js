@@ -1,3 +1,8 @@
+/**
+ * Author: Dominic Vonk
+ * Class: Timer
+ * Github: https://github.com/DominicVonk/jsTimer/
+ */
 (function($) {
   $.Timer = function (milliseconds) {
   var timer = null;
