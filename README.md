@@ -1,13 +1,12 @@
 jsTimer
 =======
-
 The Javascript Timer
 
-=======
-Usage
+Usage:
 
 ```js
 var timer1 = new Timer(1000); // create timer with 1000 milliseconds interval.
+
 // execute at every elapse.
 timer1.elapsed(function(e) { 
   // e returns the an array with the signalTime.
