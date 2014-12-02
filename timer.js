@@ -1,7 +1,7 @@
 /**
  * Author: Dominic Vonk
  * Class: Timer
- * Github: https://github.com/DominicVonk/jsTimer/
+ * Github: https://github.com/DominicVonk/Timer.js/
  */
 (function($) {
   $.Timer = function (milliseconds) {
